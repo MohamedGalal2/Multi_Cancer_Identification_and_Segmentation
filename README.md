@@ -6,6 +6,6 @@ This project uses deep learning techniques to classify x-ray images as either br
 ### Technologies Used:
 Python 3 <br />
 TensorFlow <br />
-Keras      
-OpenCV
+Keras   <br />    
+OpenCV   <br />
 NumPy
